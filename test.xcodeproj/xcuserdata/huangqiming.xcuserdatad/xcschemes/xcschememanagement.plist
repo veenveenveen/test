@@ -4,15 +4,160 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MJRefresh 上拉加载 下拉刷新.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>RunLoop.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>TEST_OC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>block传值.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>testOC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>动画.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>图片模糊效果.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>图片轮播.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>多线程.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>抽屉效果.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>拖拽排序.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>欧几里得算法 求最大公约数.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>生成不消耗内存的圆角图片.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>范型.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>904D78431DD57616001A1E0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>904D785B1DD57616001A1E0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>906DAC651DD4A7F700765A63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90A5A7AF1DE7E36100A0548A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90BD40621DDD43EF0038BC25</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90BD407D1DDD9EB80038BC25</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B8851DE292D50025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B8901DE293020025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B8AB1DE2B83A0025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B8C61DE2D1600025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B8E31DE2D9A30025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B9061DE52B860025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B92D1DE55B820025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B9431DE6767F0025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B9521DE69C050025B1B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90D9B9601DE6C8AF0025B1B5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
