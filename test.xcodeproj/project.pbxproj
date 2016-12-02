@@ -122,6 +122,20 @@
 		E21D64D91DED515600C7D57B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E21D64D71DED515600C7D57B /* LaunchScreen.storyboard */; };
 		E21D64E51DED71FE00C7D57B /* HMGifView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21D64E41DED71FD00C7D57B /* HMGifView.swift */; };
 		E21D64E71DED841A00C7D57B /* fire.gif in Resources */ = {isa = PBXBuildFile; fileRef = E21D64E61DED841A00C7D57B /* fire.gif */; };
+		E2568B0C1DEE6D5C001FFE57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2568B0B1DEE6D5C001FFE57 /* AppDelegate.swift */; };
+		E2568B131DEE6D5C001FFE57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2568B121DEE6D5C001FFE57 /* Assets.xcassets */; };
+		E2568B1C1DEE6E57001FFE57 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2568B1B1DEE6E57001FFE57 /* Launch Screen.storyboard */; };
+		E2568B201DEE6EDA001FFE57 /* HMHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2568B1F1DEE6EDA001FFE57 /* HMHomeViewController.swift */; };
+		E2568B241DEE8003001FFE57 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2568B231DEE8003001FFE57 /* File.swift */; };
+		E2568B261DEEAB7B001FFE57 /* HMDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2568B251DEEAB7B001FFE57 /* HMDetailViewController.swift */; };
+		E2568B281DEED6DB001FFE57 /* HMNewNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2568B271DEED6DB001FFE57 /* HMNewNoteViewController.swift */; };
+		E2568B2C1DEEDF66001FFE57 /* HMTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2568B2B1DEEDF66001FFE57 /* HMTextView.swift */; };
+		E286F0B01DEFB29700A2EF1F /* HMCoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E286F0AF1DEFB29700A2EF1F /* HMCoreDataManager.swift */; };
+		E286F0BA1DEFC1E700A2EF1F /* NoteModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E286F0B81DEFC1E700A2EF1F /* NoteModel.xcdatamodeld */; };
+		E286F0C61DEFC28C00A2EF1F /* Note+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = E286F0C41DEFC28C00A2EF1F /* Note+CoreDataProperties.m */; };
+		E286F1041DF054CE00A2EF1F /* HMTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E286F1031DF054CE00A2EF1F /* HMTableViewCell.swift */; };
+		E286F1061DF110B100A2EF1F /* HMLinedTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E286F1051DF110B100A2EF1F /* HMLinedTextView.swift */; };
+		E286F1091DF143C200A2EF1F /* UILabel+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E286F1081DF143C200A2EF1F /* UILabel+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -357,6 +371,26 @@
 		E21D64DA1DED515700C7D57B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E21D64E41DED71FD00C7D57B /* HMGifView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMGifView.swift; sourceTree = "<group>"; };
 		E21D64E61DED841A00C7D57B /* fire.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire.gif; sourceTree = "<group>"; };
+		E2568B091DEE6D5C001FFE57 /* MyNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2568B0B1DEE6D5C001FFE57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E2568B121DEE6D5C001FFE57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E2568B171DEE6D5C001FFE57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2568B1B1DEE6E57001FFE57 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		E2568B1F1DEE6EDA001FFE57 /* HMHomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMHomeViewController.swift; sourceTree = "<group>"; };
+		E2568B231DEE8003001FFE57 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		E2568B251DEEAB7B001FFE57 /* HMDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMDetailViewController.swift; sourceTree = "<group>"; };
+		E2568B271DEED6DB001FFE57 /* HMNewNoteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMNewNoteViewController.swift; sourceTree = "<group>"; };
+		E2568B2B1DEEDF66001FFE57 /* HMTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMTextView.swift; sourceTree = "<group>"; };
+		E286F0A71DEF20F900A2EF1F /* MyNotes-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyNotes-Bridging-Header.h"; sourceTree = "<group>"; };
+		E286F0AF1DEFB29700A2EF1F /* HMCoreDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMCoreDataManager.swift; sourceTree = "<group>"; };
+		E286F0B91DEFC1E700A2EF1F /* NoteModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = NoteModel.xcdatamodel; sourceTree = "<group>"; };
+		E286F0C11DEFC28C00A2EF1F /* Note+CoreDataClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Note+CoreDataClass.h"; sourceTree = "<group>"; };
+		E286F0C21DEFC28C00A2EF1F /* Note+CoreDataClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Note+CoreDataClass.m"; sourceTree = "<group>"; };
+		E286F0C31DEFC28C00A2EF1F /* Note+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Note+CoreDataProperties.h"; sourceTree = "<group>"; };
+		E286F0C41DEFC28C00A2EF1F /* Note+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Note+CoreDataProperties.m"; sourceTree = "<group>"; };
+		E286F1031DF054CE00A2EF1F /* HMTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMTableViewCell.swift; sourceTree = "<group>"; };
+		E286F1051DF110B100A2EF1F /* HMLinedTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMLinedTextView.swift; sourceTree = "<group>"; };
+		E286F1081DF143C200A2EF1F /* UILabel+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILabel+Extension.swift"; sourceTree = "<group>"; };
 		FE8A5FB046675CCF016A5581 /* Pods-多线程.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-多线程.release.xcconfig"; path = "Pods/Target Support Files/Pods-多线程/Pods-多线程.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -486,6 +520,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E2568B061DEE6D5C001FFE57 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -564,6 +605,7 @@
 				90D9B9621DE6C8AF0025B1B5 /* 图片轮播 */,
 				90A5A7B11DE7E36100A0548A /* MJRefresh 上拉加载 下拉刷新 */,
 				E21D64CD1DED515600C7D57B /* gif图片展示 */,
+				E2568B0A1DEE6D5C001FFE57 /* MyNotes */,
 				906DAC671DD4A7F700765A63 /* Products */,
 				8809AD5E3464061EE5F24F5A /* Pods */,
 				D7D225E539E1E5C2359A914B /* Frameworks */,
@@ -590,6 +632,7 @@
 				90D9B9611DE6C8AF0025B1B5 /* 图片轮播.app */,
 				90A5A7B01DE7E36100A0548A /* MJRefresh 上拉加载 下拉刷新.app */,
 				E21D64CC1DED515600C7D57B /* gif图片展示.app */,
+				E2568B091DEE6D5C001FFE57 /* MyNotes.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -959,6 +1002,88 @@
 			path = "gif图片展示";
 			sourceTree = "<group>";
 		};
+		E2568B0A1DEE6D5C001FFE57 /* MyNotes */ = {
+			isa = PBXGroup;
+			children = (
+				E2568B0B1DEE6D5C001FFE57 /* AppDelegate.swift */,
+				E2568B291DEEDCC9001FFE57 /* Pages */,
+				E2568B2A1DEEDF3D001FFE57 /* Views */,
+				E2568B221DEE7FF2001FFE57 /* Utility  */,
+				E286F1071DF1436B00A2EF1F /* Extension */,
+				E286F0951DEF175100A2EF1F /* CoreData */,
+				E286F0AE1DEFB24200A2EF1F /* Other */,
+				E2568B211DEE7B92001FFE57 /* Resources */,
+			);
+			path = MyNotes;
+			sourceTree = "<group>";
+		};
+		E2568B211DEE7B92001FFE57 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E2568B121DEE6D5C001FFE57 /* Assets.xcassets */,
+				E2568B1B1DEE6E57001FFE57 /* Launch Screen.storyboard */,
+				E2568B171DEE6D5C001FFE57 /* Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		E2568B221DEE7FF2001FFE57 /* Utility  */ = {
+			isa = PBXGroup;
+			children = (
+				E2568B231DEE8003001FFE57 /* File.swift */,
+			);
+			name = "Utility ";
+			sourceTree = "<group>";
+		};
+		E2568B291DEEDCC9001FFE57 /* Pages */ = {
+			isa = PBXGroup;
+			children = (
+				E2568B1F1DEE6EDA001FFE57 /* HMHomeViewController.swift */,
+				E2568B251DEEAB7B001FFE57 /* HMDetailViewController.swift */,
+				E2568B271DEED6DB001FFE57 /* HMNewNoteViewController.swift */,
+			);
+			name = Pages;
+			sourceTree = "<group>";
+		};
+		E2568B2A1DEEDF3D001FFE57 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E286F1051DF110B100A2EF1F /* HMLinedTextView.swift */,
+				E2568B2B1DEEDF66001FFE57 /* HMTextView.swift */,
+				E286F1031DF054CE00A2EF1F /* HMTableViewCell.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		E286F0951DEF175100A2EF1F /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				E286F0AF1DEFB29700A2EF1F /* HMCoreDataManager.swift */,
+				E286F0C11DEFC28C00A2EF1F /* Note+CoreDataClass.h */,
+				E286F0C21DEFC28C00A2EF1F /* Note+CoreDataClass.m */,
+				E286F0C31DEFC28C00A2EF1F /* Note+CoreDataProperties.h */,
+				E286F0C41DEFC28C00A2EF1F /* Note+CoreDataProperties.m */,
+				E286F0B81DEFC1E700A2EF1F /* NoteModel.xcdatamodeld */,
+			);
+			name = CoreData;
+			sourceTree = "<group>";
+		};
+		E286F0AE1DEFB24200A2EF1F /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				E286F0A71DEF20F900A2EF1F /* MyNotes-Bridging-Header.h */,
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
+		E286F1071DF1436B00A2EF1F /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				E286F1081DF143C200A2EF1F /* UILabel+Extension.swift */,
+			);
+			name = Extension;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1269,6 +1394,23 @@
 			productReference = E21D64CC1DED515600C7D57B /* gif图片展示.app */;
 			productType = "com.apple.product-type.application";
 		};
+		E2568B081DEE6D5C001FFE57 /* MyNotes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2568B1A1DEE6D5C001FFE57 /* Build configuration list for PBXNativeTarget "MyNotes" */;
+			buildPhases = (
+				E2568B051DEE6D5C001FFE57 /* Sources */,
+				E2568B061DEE6D5C001FFE57 /* Frameworks */,
+				E2568B071DEE6D5C001FFE57 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyNotes;
+			productName = MyNotes;
+			productReference = E2568B091DEE6D5C001FFE57 /* MyNotes.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -1366,6 +1508,12 @@
 						DevelopmentTeam = 2Z7NL663JA;
 						ProvisioningStyle = Automatic;
 					};
+					E2568B081DEE6D5C001FFE57 = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 2Z7NL663JA;
+						LastSwiftMigration = 0810;
+						ProvisioningStyle = Automatic;
+					};
 				};
 			};
 			buildConfigurationList = 906DAC611DD4A7F700765A63 /* Build configuration list for PBXProject "test" */;
@@ -1398,6 +1546,7 @@
 				90D9B9601DE6C8AF0025B1B5 /* 图片轮播 */,
 				90A5A7AF1DE7E36100A0548A /* MJRefresh 上拉加载 下拉刷新 */,
 				E21D64CB1DED515600C7D57B /* gif图片展示 */,
+				E2568B081DEE6D5C001FFE57 /* MyNotes */,
 			);
 		};
 /* End PBXProject section */
@@ -1549,6 +1698,15 @@
 				E21D64D61DED515600C7D57B /* Assets.xcassets in Resources */,
 				E21D64E71DED841A00C7D57B /* fire.gif in Resources */,
 				E21D64D41DED515600C7D57B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2568B071DEE6D5C001FFE57 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2568B1C1DEE6E57001FFE57 /* Launch Screen.storyboard in Resources */,
+				E2568B131DEE6D5C001FFE57 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1980,6 +2138,25 @@
 				E21D64D11DED515600C7D57B /* ViewController.swift in Sources */,
 				E21D64E51DED71FE00C7D57B /* HMGifView.swift in Sources */,
 				E21D64CF1DED515600C7D57B /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2568B051DEE6D5C001FFE57 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2568B2C1DEEDF66001FFE57 /* HMTextView.swift in Sources */,
+				E2568B201DEE6EDA001FFE57 /* HMHomeViewController.swift in Sources */,
+				E2568B281DEED6DB001FFE57 /* HMNewNoteViewController.swift in Sources */,
+				E2568B241DEE8003001FFE57 /* File.swift in Sources */,
+				E286F0C61DEFC28C00A2EF1F /* Note+CoreDataProperties.m in Sources */,
+				E2568B261DEEAB7B001FFE57 /* HMDetailViewController.swift in Sources */,
+				E286F1041DF054CE00A2EF1F /* HMTableViewCell.swift in Sources */,
+				E286F0BA1DEFC1E700A2EF1F /* NoteModel.xcdatamodeld in Sources */,
+				E286F1091DF143C200A2EF1F /* UILabel+Extension.swift in Sources */,
+				E2568B0C1DEE6D5C001FFE57 /* AppDelegate.swift in Sources */,
+				E286F1061DF110B100A2EF1F /* HMLinedTextView.swift in Sources */,
+				E286F0B01DEFB29700A2EF1F /* HMCoreDataManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2782,6 +2959,47 @@
 			};
 			name = Release;
 		};
+		E2568B181DEE6D5C001FFE57 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2Z7NL663JA;
+				INFOPLIST_FILE = MyNotes/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.huatengIOT.MyNotes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OBJC_BRIDGING_HEADER = "MyNotes/MyNotes-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		E2568B191DEE6D5C001FFE57 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 2Z7NL663JA;
+				INFOPLIST_FILE = MyNotes/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.huatengIOT.MyNotes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "MyNotes/MyNotes-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -2945,8 +3163,31 @@
 				E21D64DC1DED515700C7D57B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2568B1A1DEE6D5C001FFE57 /* Build configuration list for PBXNativeTarget "MyNotes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2568B181DEE6D5C001FFE57 /* Debug */,
+				E2568B191DEE6D5C001FFE57 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		E286F0B81DEFC1E700A2EF1F /* NoteModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				E286F0B91DEFC1E700A2EF1F /* NoteModel.xcdatamodel */,
+			);
+			currentVersion = E286F0B91DEFC1E700A2EF1F /* NoteModel.xcdatamodel */;
+			path = NoteModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 906DAC5E1DD4A7F700765A63 /* Project object */;
 }

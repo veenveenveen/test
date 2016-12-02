@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>14</integer>
 		</dict>
+		<key>MyNotes.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
 		<key>RunLoop.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -168,6 +173,11 @@
 			<true/>
 		</dict>
 		<key>E21D64CB1DED515600C7D57B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2568B081DEE6D5C001FFE57</key>
 		<dict>
 			<key>primary</key>
 			<true/>
